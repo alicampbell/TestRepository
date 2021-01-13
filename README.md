@@ -1,3 +1,3 @@
-# BMEN-509
-BMEN 509 Notebooks
-This repository will contain all the notebooks used in "Introduction to Biomedical Imaging and Applications"!
+# Test
+Test repository
+This repository is just for testing and learning purposes.
